@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-25T16:52:31.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="lwz-eJOYtuoRqvAF8d2d" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-25T16:53:50.458Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="B4Y7DmV6HcR55VtWpgXe" version="12.1.7" type="github" pages="1">
   <diagram id="R_3jS2ZoELMMdS4u4bHU" name="Page-1">
     <mxGraphModel dx="932" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="owTj0nQ-ClxknzkhUprJ-22" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helveticaneue&amp;#34; ; white-space: normal&quot;&gt;AWS&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helveticaneue&amp;#34; ; white-space: normal&quot;&gt;CodeBuild&lt;/span&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codebuild;" parent="1" vertex="1">
+        <mxCell id="owTj0nQ-ClxknzkhUprJ-22" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helveticaneue&amp;#34; ; white-space: normal&quot;&gt;AWS&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helveticaneue&amp;#34; ; white-space: normal&quot;&gt;CodeBuild &lt;br&gt;(or other &lt;br&gt;deployment &lt;br&gt;mechanism)&lt;/span&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codebuild;" parent="1" vertex="1">
           <mxGeometry x="460" y="306" width="78" height="78" as="geometry"/>
         </mxCell>
         <mxCell id="owTj0nQ-ClxknzkhUprJ-24" value="ECR &lt;br&gt;Repository Policy" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.identity_and_access_management;" parent="1" vertex="1">
@@ -111,10 +111,10 @@
         <mxCell id="dBPFH3CyM3iplm8_HaV5-2" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="656" width="190" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="dBPFH3CyM3iplm8_HaV5-8" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helveticaneue&amp;#34; ; white-space: normal&quot;&gt;AWS&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helveticaneue&amp;#34; ; white-space: normal&quot;&gt;CodeBuild&lt;/span&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codebuild;" parent="1" vertex="1">
+        <mxCell id="dBPFH3CyM3iplm8_HaV5-8" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helveticaneue&amp;#34; ; white-space: normal&quot;&gt;AWS&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helveticaneue&amp;#34; ; white-space: normal&quot;&gt;CodeBuild&amp;nbsp;&lt;br&gt;(or other&amp;nbsp;&lt;br&gt;deployment&amp;nbsp;&lt;br&gt;mechanism)&lt;/span&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codebuild;" parent="1" vertex="1">
           <mxGeometry x="440" y="706" width="78" height="78" as="geometry"/>
         </mxCell>
-        <mxCell id="dBPFH3CyM3iplm8_HaV5-9" value="ECR Repository&amp;nbsp;&lt;br&gt;Policy" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.identity_and_access_management;" parent="1" vertex="1">
+        <mxCell id="dBPFH3CyM3iplm8_HaV5-9" value="ECR&lt;br&gt;Repository&amp;nbsp;Policy" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.identity_and_access_management;" parent="1" vertex="1">
           <mxGeometry x="60" y="691" width="78" height="78" as="geometry"/>
         </mxCell>
         <mxCell id="dBPFH3CyM3iplm8_HaV5-11" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;3&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontColor=#666666;fontSize=13;fontStyle=2" parent="1" source="dBPFH3CyM3iplm8_HaV5-8" edge="1">
@@ -136,7 +136,7 @@
         </mxCell>
         <mxCell id="dBPFH3CyM3iplm8_HaV5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#545B64;endFill=0;endArrow=open;startArrow=none;fontSize=11;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="816" as="sourcePoint"/>
+            <mxPoint x="460" y="860" as="sourcePoint"/>
             <mxPoint x="100" y="810" as="targetPoint"/>
             <Array as="points">
               <mxPoint x="460" y="950"/>
@@ -168,7 +168,7 @@
         <mxCell id="dBPFH3CyM3iplm8_HaV5-7" value="&amp;nbsp;2&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#545B64;endFill=0;endArrow=open;startArrow=none;fontSize=13;jumpStyle=arc;fontStyle=2;fontColor=#666666;" parent="1" edge="1">
           <mxGeometry x="0.0102" relative="1" as="geometry">
             <mxPoint x="190" y="801" as="sourcePoint"/>
-            <mxPoint x="500" y="816" as="targetPoint"/>
+            <mxPoint x="500" y="860" as="targetPoint"/>
             <Array as="points">
               <mxPoint x="190" y="801"/>
               <mxPoint x="190" y="990"/>
