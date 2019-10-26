@@ -1,9 +1,18 @@
-<mxfile host="www.draw.io" modified="2019-10-26T21:21:20.978Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="fOz_6IOh1GfXe0Ku9eFh" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-26T23:25:52.721Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="k36hFcenadV3HdxN0OGS" version="12.1.7" type="github" pages="1">
   <diagram id="R_3jS2ZoELMMdS4u4bHU" name="Page-1">
     <mxGraphModel dx="932" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="wGE7x2msAMP5GoDA-X3O-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="54" y="1480" width="441" height="290" as="geometry"/>
+        </mxCell>
+        <mxCell id="wGE7x2msAMP5GoDA-X3O-16" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Prose App&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;(Customer)&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-128.png" vertex="1" parent="1">
+          <mxGeometry x="400.5" y="1478" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="wGE7x2msAMP5GoDA-X3O-17" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Rake App&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;(Vendor)&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-128.png" vertex="1" parent="1">
+          <mxGeometry x="403.5" y="1638" width="90" height="90" as="geometry"/>
+        </mxCell>
         <mxCell id="CuYU8UTOywDD641evy3M-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="570" width="810" height="440" as="geometry"/>
         </mxCell>
@@ -217,7 +226,7 @@
             <mxPoint x="367" y="1209" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eR08tAdOPXdmzdPCYpiu-2" value="&amp;nbsp;:8080&amp;nbsp;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=2;fontSize=13;fontColor=#666666;" vertex="1" connectable="0" parent="GRQDnbNCHheDlcX2vijt-2">
+        <mxCell id="eR08tAdOPXdmzdPCYpiu-2" value="&amp;nbsp;:8080&amp;nbsp;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=2;fontSize=13;fontColor=#666666;" parent="GRQDnbNCHheDlcX2vijt-2" vertex="1" connectable="0">
           <mxGeometry x="-0.0545" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -240,7 +249,7 @@
             <mxPoint x="236" y="1208" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eR08tAdOPXdmzdPCYpiu-1" value="&lt;font color=&quot;#666666&quot;&gt;&amp;nbsp;:80&amp;nbsp;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=2;fontSize=13;" vertex="1" connectable="0" parent="m5KFboodZxEJs2Bsc7D_-3">
+        <mxCell id="eR08tAdOPXdmzdPCYpiu-1" value="&lt;font color=&quot;#666666&quot;&gt;&amp;nbsp;:80&amp;nbsp;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontStyle=2;fontSize=13;" parent="m5KFboodZxEJs2Bsc7D_-3" vertex="1" connectable="0">
           <mxGeometry x="-0.0183" y="-1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -261,6 +270,40 @@
             </Array>
             <mxPoint as="offset"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wGE7x2msAMP5GoDA-X3O-3" value=":8080" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontColor=#666666;fontStyle=2;strokeColor=#545B64;endFill=0;endArrow=open;startArrow=none;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320.5" y="1598" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="362.5" y="1598"/>
+              <mxPoint x="362.5" y="1528"/>
+            </Array>
+            <mxPoint x="402.5" y="1528" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGE7x2msAMP5GoDA-X3O-4" value=":8080" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontColor=#666666;fontStyle=2;strokeColor=#545B64;endFill=0;endArrow=open;startArrow=none;exitX=0.639;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wGE7x2msAMP5GoDA-X3O-1">
+          <mxGeometry x="0.1061" relative="1" as="geometry">
+            <mxPoint x="319.5" y="1621" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="363.5" y="1621"/>
+              <mxPoint x="363.5" y="1688"/>
+            </Array>
+            <mxPoint x="405.5" y="1688" as="targetPoint"/>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGE7x2msAMP5GoDA-X3O-12" value="&amp;nbsp;:8080&amp;nbsp;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#666666;fontStyle=2;strokeColor=#545B64;endFill=0;endArrow=open;startArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wGE7x2msAMP5GoDA-X3O-15">
+          <mxGeometry x="-0.1566" relative="1" as="geometry">
+            <mxPoint x="159.5" y="1609" as="sourcePoint"/>
+            <mxPoint x="241.5" y="1608.5" as="targetPoint"/>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGE7x2msAMP5GoDA-X3O-15" value="End-user &lt;br&gt;Applications" style="outlineConnect=0;gradientColor=none;fontColor=#000000;strokeColor=none;fillColor=#4D4D4D;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="58.5" y="1572" width="100" height="73" as="geometry"/>
+        </mxCell>
+        <mxCell id="wGE7x2msAMP5GoDA-X3O-1" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;NLP Client&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;(Customer)&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-128.png" vertex="1" parent="1">
+          <mxGeometry x="236" y="1558" width="90" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
