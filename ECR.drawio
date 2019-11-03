@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2019-11-03T06:10:14.724Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="84mv9h47JWNVczcSzZOC" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-03T06:11:40.751Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="ULDgue-zrpWLTW2IJT1s" version="12.1.9" type="github" pages="1">
   <diagram id="R_3jS2ZoELMMdS4u4bHU" name="Page-1">
     <mxGraphModel dx="932" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="u8_xLI2GsS02MfjM-tT7-38" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="70" y="2390" width="580" height="230" as="geometry"/>
+          <mxGeometry x="70" y="2390" width="740" height="230" as="geometry"/>
         </mxCell>
         <mxCell id="wGE7x2msAMP5GoDA-X3O-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="54" y="1480" width="441" height="290" as="geometry"/>
@@ -427,6 +427,20 @@
         </mxCell>
         <mxCell id="u8_xLI2GsS02MfjM-tT7-35" value="Dockerfile" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="80.5" y="2530" width="84" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="u8_xLI2GsS02MfjM-tT7-39" value="Amazon ECS" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecs;" vertex="1" parent="1">
+          <mxGeometry x="719" y="2400" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="u8_xLI2GsS02MfjM-tT7-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#666666;fontStyle=2;strokeColor=#545B64;endFill=0;endArrow=open;startArrow=none;" edge="1" parent="1" source="u8_xLI2GsS02MfjM-tT7-20" target="u8_xLI2GsS02MfjM-tT7-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639" y="2440.8761755485893" as="sourcePoint"/>
+            <mxPoint x="719" y="2440.62539184953" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8_xLI2GsS02MfjM-tT7-41" value="&lt;i&gt;Deploy&lt;/i&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="u8_xLI2GsS02MfjM-tT7-40">
+          <mxGeometry x="-0.1534" relative="1" as="geometry">
+            <mxPoint x="3.5" y="10" as="offset"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
